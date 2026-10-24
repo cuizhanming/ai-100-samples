@@ -1,10 +1,10 @@
-"""Smoke-run every sample and fail if any exits non-zero."""
+"""Smoke-run every sample in every chapter and fail if any exits non-zero."""
 import glob
 import subprocess
 import sys
 
 failed = 0
-for path in sorted(glob.glob("ep*.py")):
+for path in sorted(glob.glob("chapter-*/ep*.py")):
     r = subprocess.run([sys.executable, path], capture_output=True, text=True)
     print(("ok   " if r.returncode == 0 else "FAIL ") + path)
     if r.returncode:
