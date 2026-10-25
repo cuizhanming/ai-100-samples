@@ -7,6 +7,7 @@ Pure Python, no API keys needed. Each sample is small, offline and toy-sized. Nu
 | Chapter | Episodes | Folder |
 | --- | --- | --- |
 | A · Foundations: the Model | EP001-010 | [`chapter-a-model`](chapter-a-model) |
+| B · Agent 101, the big picture | EP011-018 | [`chapter-b-agent`](chapter-b-agent) |
 
 More chapters will be added here as the series is published.
 
