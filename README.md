@@ -8,6 +8,7 @@ Pure Python, no API keys needed. Each sample is small, offline and toy-sized. Nu
 | --- | --- | --- |
 | A · Foundations: the Model | EP001-010 | [`chapter-a-model`](chapter-a-model) |
 | B · Agent 101, the big picture | EP011-018 | [`chapter-b-agent`](chapter-b-agent) |
+| C · Prompt & Context Engineering | EP019-030 | [`chapter-c-prompt`](chapter-c-prompt) |
 
 More chapters will be added here as the series is published.
 
