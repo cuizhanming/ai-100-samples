@@ -10,6 +10,7 @@ Pure Python, no API keys needed. Each sample is small, offline and toy-sized. Nu
 | B · Agent 101, the big picture | EP011-018 | [`chapter-b-agent`](chapter-b-agent) |
 | C · Prompt & Context Engineering | EP019-030 | [`chapter-c-prompt`](chapter-c-prompt) |
 | D · Tools & Actions | EP031-044 | [`chapter-d-tools`](chapter-d-tools) |
+| E · Loop, Planning & Control | EP045-056 | [`chapter-e-loop`](chapter-e-loop) |
 
 More chapters will be added here as the series is published.
 
