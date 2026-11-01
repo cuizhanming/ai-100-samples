@@ -13,6 +13,7 @@ Pure Python, no API keys needed. Each sample is small, offline and toy-sized. Nu
 | E · Loop, Planning & Control | EP045-056 | [`chapter-e-loop`](chapter-e-loop) |
 | F · Memory & Knowledge | EP057-068 | [`chapter-f-memory`](chapter-f-memory) |
 | G · Multi-Agent | EP069-076 | [`chapter-g-multiagent`](chapter-g-multiagent) |
+| H · Runtime & Integration | EP077-086 | [`chapter-h-runtime`](chapter-h-runtime) |
 
 More chapters will be added here as the series is published.
 
