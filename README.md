@@ -16,6 +16,7 @@ Pure Python, no API keys needed. Each sample is small, offline and toy-sized. Nu
 | H · Runtime & Integration | EP077-086 | [`chapter-h-runtime`](chapter-h-runtime) |
 | I · Safety, Evals & Observability | EP087-094 | [`chapter-i-safety`](chapter-i-safety) |
 | J · Build, Ship, Operate | EP095-100 | [`chapter-j-build`](chapter-j-build) |
+| K · Harness 101 | EP101-106 | [`chapter-k-harness`](chapter-k-harness) |
 
 ```bash
 python run_all.py   # smoke-runs every sample in every chapter
