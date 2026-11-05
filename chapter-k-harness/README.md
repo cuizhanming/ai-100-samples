@@ -11,3 +11,4 @@ Pure Python 3.9+, no API keys or network needed. A scripted toy model stands in 
 | 103 | The harness loop, step by step | `ep103_harness_loop.py` |
 | 104 | What the harness sends each turn | `ep104_request_each_turn.py` |
 | 105 | Harness vs framework vs SDK | `ep105_sdk_framework_harness.py` |
+| 106 | Anatomy of Claude Code, Codex and OpenCode | `ep106_harness_anatomy.py` |
