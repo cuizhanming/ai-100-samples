@@ -18,6 +18,7 @@ Pure Python, no API keys needed. Each sample is small, offline and toy-sized. Nu
 | J · Build, Ship, Operate | EP095-100 | [`chapter-j-build`](chapter-j-build) |
 | K · Harness 101 | EP101-106 | [`chapter-k-harness`](chapter-k-harness) |
 | L · Context Engineering | EP107-113 | [`chapter-l-context`](chapter-l-context) |
+| M · Tools, Skills & MCP | EP114-119 | [`chapter-m-tools`](chapter-m-tools) |
 
 ```bash
 python run_all.py   # smoke-runs every sample in every chapter
