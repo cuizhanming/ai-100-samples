@@ -7,3 +7,6 @@ Pure Python 3.9+, no API keys or network needed.
 | EP | Topic | Sample |
 | --- | --- | --- |
 | 120 | Permission modes and approvals | `ep120_permission_modes.py` |
+| 121 | Hooks | `ep121_hooks.py` |
+| 122 | Sandboxing and egress | `ep122_sandbox_egress.py` |
+| 123 | Injection via tool results | `ep123_injection_tool_results.py` |
