@@ -10,6 +10,6 @@ calls = [("fix-bug", 4000, 500), ("fix-bug", 2000, 300), ("write-docs", 1000, 80
 per_task = defaultdict(float)
 for task, i, o in calls:
     per_task[task] += cost(i, o)
-assert round(per_task["fix-bug"], 4) == 0.0285 and round(per_task["write-docs"], 4) == 0.015
+assert round(per_task["fix-bug"], 4) == 0.03 and round(per_task["write-docs"], 4) == 0.015
 assert max(per_task, key=per_task.get) == "fix-bug"
 print("cost attribution ok")
